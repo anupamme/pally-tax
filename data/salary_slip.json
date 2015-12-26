@@ -1,0 +1,12 @@
+{
+    'basic': 100000,
+    'house_rent_allowance': 300000,
+    'conveyance': 5000,
+    'leave_travel_allowance': 25000,
+    'bonus': 4000,
+    'special_allowance': 7000,
+    'medical_allowance': 6000,
+    'providend_fund': 12000,
+    'professional_tax': 2000,
+    'income_tax': 30000
+}

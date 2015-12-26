@@ -1,0 +1,19 @@
+Step 1: 
+    Input: Salary Slip
+    Output: Analysis of Salary Slip.
+    
+Step 2:
+    Set of questions:
+        1. Does your company provide health cover: how much. Does it also cover your parents.
+        2. Do you live in a rented house
+        3. Have you invested in any property? If yes, which city. Is it under construction, self occipied or rented. Also are you first time house owner.
+        4. Do you have income from interest on savings account or fixed deposits.
+        5. Do you stay in a rented house
+        6. It seems your income is less than 12L, is that correct?
+        7. Are you married? Do you have kids.
+        8. Is your life insured? LIC or any other life insurance.
+        9. What is your risk ability?
+        10. 
+        
+        
+If HRA 
