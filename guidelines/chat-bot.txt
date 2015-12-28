@@ -1,0 +1,54 @@
+purpose:
+    1. collect information from user.
+    
+flow chart of the conversation:
+    1. take a sample tour
+    2. give as much information as you like and move forward with it.
+    3. See the effect of the information you have given right away.
+    4. go back to any previous stage of the conversation.
+    
+    
+Sample Conversation:
+
+Bot: Hi Anupam how can I help you with your tax planning.
+A: Hey ya can you please help.
+Bot: Do you have copy of your salary slip handy?
+A: Umm...yes. Can I just upload a picture?
+Bot: Yes, please upload it.
+A: uses camera and uploads the salary slip.
+Bot: Hey thanks, we are analyzing your salary slip. 2 mins please.
+...
+Bot: Here is what we have learned about your salary:
+
+    basic: 100000,
+    house_rent_allowance: 300000,
+    conveyance: 5000,
+    leave_travel_allowance: 25000,
+    bonus: 4000,
+    special_allowance: 7000,
+    medical_allowance: 6000,
+    providend_fund: 12000,
+    professional_tax: 2000,
+    
+    income_before_income_tax: 115000
+    income_tax: 30000
+    
+    net: 85000
+    
+Is that correct?
+
+A: Yes that seems correct.
+Bot: Great. Lets see what we can do with your salary.
+Bot: Let me just ask you couple of quick questions:
+a. Do you live in a rented house? If yes, how much rent do you pay?
+A: Yes. I pay Rs 25000 per month.
+b. Cool, do you also own a house in Bangalore?
+A: Not yet.
+
+Bot: Based on this information we can help you save your taxable HRA. One momene please...
+
+So your current taxable HRA is 30K but if you show rent receipts, then you can bring it down to 15K. That is a saving of 15K a month in taxable income.
+
+A: Really. What do I need to do for this.
+Bot: all I can say is you just need to show your rent receipts to your HR and tell them that your taxable HRA should be only 15K. If you need more help I can put you in touch with one of our tax experts.
+

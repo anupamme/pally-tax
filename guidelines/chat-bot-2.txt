@@ -1,0 +1,35 @@
+Bot: Hi Anupam, how can I help you with your tax planning today.
+A: Hey ya yes please help me out.
+Bot: Ok, we will need somewhere to begin. Can you tell me your monthly in-hand salary?
+A: Oh yes, it is 80000
+Bot: Great, let me do some math. From this salary at hand it seems you lie in 
+
+10% * 250000 = 25000
+20% * 500000 = 100000
+
+10L, tax = 1.25L, in hand = 8.75
+
+Bot: It seems you lie in the 30% income bracket (which means you salary is over 10 lacs).
+Bot: Your total savings in taxes is around 80K Rupees annually.
+Bot: Let me take you through next steps.
+Bot: Can I know your annual deduction for PF? Additionally you can upload the image of your salary slip (if that is handy)?
+
+A: My basic salary is 40K so I put 5K per month.
+
+Bot: That means your annual contribution to PF is 60K.
+Bot: So your left over investment amount is 90K. Let me suggest what all you can do with this.
+
+Investment plan 1 (lowest risk): The 90K you invest helps you save 10K in taxes and grows into 1.2 lacs in 3 years.
+
+ELSS: 20%
+PPF: 40%
+LIC: 30%
+
+Investment plan 2 (medium risk): The 90K you invest helps you save 10K in taxes and grows into 1.5 lacs in 3 years.
+
+ELSS: 40%
+PPF: 30%
+LIC: 20%
+
+
+Meanwhile if you want to provide us with more information, we can tailor this to your requirements.
