@@ -1,0 +1,23 @@
+Bot: Hi Anupam! can I help you with your HRA deductions.
+A: Hey yes please.
+Bot: I need to know some information to begin with. Do you have your salary slip handy?
+A: Cant find it.
+Bot: Okay, let me ask you some details then. They need to be precise. What is your basic component of the income?
+A: Umm, I think it is 50K a month.
+Bot: How much is your HRA per month?
+A: 20K
+Bot: Okay, and how much rent do you pay every month (even if you pay rent to your parents, that also counts.)?
+A: I pay 15K per month.
+Bot: I am assuming you live in Bangalore? Is that correct?
+A: Ya
+Bot: 2 mins please.... calculating.
+Bot: It turns out that you can save 10K of HRA. But Remaining 10K will be added to your taxable income.
+A: Thats cool. How do I go ahead and avail the this deduction.
+Bot: I can print HRA receipts for you which you can hand it to your HR department. That should be enough.
+A: Okay go ahead.
+Bot: Is following your address?
+#686, 10th main, 4th A Cross, 4th Block, Kormangala
+A: Yes
+Bot: I need some information about landlord. His name and pan number?
+A: Okay. His name is Bhargavi Mitra. And his pan card. I will have to find it out.
+Bot: Okay no issues, take your time.

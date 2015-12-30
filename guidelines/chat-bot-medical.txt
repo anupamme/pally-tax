@@ -1,0 +1,10 @@
+Bot: Hey Anupam, It's me again. How can I help you with your medical allowances.
+A: Hey I was ill this year and spent some time and money going to doctors.
+Bot: Not an issue. Can you tell me how much medical allowance you have got?
+A: I received 25000 as medical allowance.
+Bot: I am assuming it is per year. So how much did you pay for your medical expenses?
+A: Umm... around 20000.
+Bot: And do you have bills for this amount?
+A: Let me think. I think I have bills for 17K only, rest was off the bills.
+Bot: Cool. There is a maximum limit of 15000 on medical expenses. So if you have bills for amount at least this much, you are sorted.
+Bot: So your deduction will be 15K and rest which is 10K will be chargeable 
