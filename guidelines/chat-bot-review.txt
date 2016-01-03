@@ -1,0 +1,48 @@
+Bot: Hi Anupam, can I review your investment portfolio.
+A: Yes Please.
+Bot: Okay, I am going to ask you a small set of questions and then we will take it from there.
+A: Okay.
+Bot: Have you taken any life insurance e.g. LIC or any other.
+A: Oh yes.
+Bot: Do you know the payout offhand, premium and its term?
+A: Thats too much to answer. I pay 10K a year and my insurance amount is 1Cr. I think it matures at when I get to 60 but I am not sure if it is an investment product.
+Bot: This is good enough. Do you have any other life insurance or term insurance etc?
+A: No thats all.
+Bot: Okay, can you tell me how much money you are keeping in fixed deposits? You can either enter one by one or you can upload your form 26AS (if you know what that is)
+A: I will enter one by one.
+Bot: Okay you do not have to be exact as this is an estimate conversation.
+A: Cool!
+Bot: Here is a form in which you can enter the details one by one.
+A: okay let me try.
+...
+A: think i am done.
+Bot: Cool. So we have your life insurance and FD information.
+Bot: Are you doing any other investment besides e.g. Recurring Deposits, ELSS, Mutual Funds, Ulips (select one of more)
+
+Bot: Based on the information you have provided we have prepared a look into your future cashflows. Here is this:
+... some interactive plot...
+
+A: Interacts with it.
+
+Bot: 
+
+Is there something unbalanced with this portfolio...
+Is there an investment which should be stopped or changed...
+
+Bot: Based on this information I recommend few steps to improve your current portfolio.
+step 1: Move X money from this FD to A. This will increase your returns by 5% and also make it tax efficient.
+step 2: ...
+step 3: ...
+
+Total of this will save you Rs 15000 in 3 years. 
+
+A: Sounds interesting. Can I know more about it.
+
+Bot: yes sure. Here is detailed chart for you to interact more with it.
+A: 
+
+Bot: We can also connect you to our investment expert (But it will be chargeable. Know the costs...)
+A: I think I'd like to speak to the expert.
+
+Bot: Cool. How about following time (Select one of them):
+A: Wednesday 3 PM sounds good.

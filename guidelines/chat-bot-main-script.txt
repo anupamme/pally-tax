@@ -19,6 +19,9 @@ A: My basic salary is 40K so I put 5K per month.
 Bot: That means your annual contribution to PF is 60K.
 Bot: So your left over investment amount out of 150K is 90K. Let me suggest what all you can do with this.
 
+Bot: Okay, what about your medical insurance. Does your company provides for it?
+A: Yes I think so.
+
 Investment plan 1 (lowest risk): The 90K you invest helps you save 30K in taxes and grows into 1.2 lacs in 3 years.
 
 ELSS: 20%
